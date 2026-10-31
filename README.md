@@ -33,33 +33,6 @@ Built explicitly for students and early-career professionals, Pathfinder acts as
 * **Frontend:** Streamlit-powered rich web portal with dynamic reactive widgets
 * **Database Layer:** MongoDB NoSQL database for flexible JSON-like agentic memory storage
 * **Runtime Environment:** Python 3.x backend engine
-
----
-
-## 🚀 Installation & Setup
-
-### 📋 Prerequisites
-Ensure you have a MongoDB cluster running (local or Atlas instance).
-
-### ⚙️ Steps to Run Locally
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com
-   cd Project-Agentic-Memory
-   ```
-
-2. **Set up your environment variables:**
-   Create a `.env` file or export your connection parameters:
-   ```bash
-   MONGO_URI="mongodb://localhost:27017"
-   ```
-
-3. **Install dependencies and launch the platform:**
-   ```bash
-   pip install pymongo streamlit
-   streamlit run project.py
-   ```
-
 ---
 
 ## 🤝 Contributing
