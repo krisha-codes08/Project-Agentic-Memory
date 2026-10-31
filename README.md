@@ -1,2 +1,3 @@
-# Project-Agentic-Memory
-Autonomous Cybersecurity Threat Responder Agent using LangGraph and MongoDB Agentic Memory
+# Project-Pathfinder
+Conversational AI Career and Academic Agent 
+
