@@ -1,6 +1,6 @@
 # 🚀 Pathfinder: Conversational AI Career & Academic Agent
 
-[ App link ] https://project-agentic-memory-hxrd4wgxqyu4tgvdlaoko8.streamlit.app/
+[ App link ] https://project-agentic-memory-lhusrmedwyrfdyvdpinuis.streamlit.app/
 
 **Pathfinder** is an advanced, autonomous full-stack conversational platform that orchestrates career guidance and academic tracking using a persistent **MongoDB-backed Agentic Memory Vault**. 
 
